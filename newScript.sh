@@ -12,4 +12,5 @@ cat >> $1 << EOF
 
 EOF
 fi
+chmod u+x $1
 vim +5 $1
