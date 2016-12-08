@@ -10,3 +10,10 @@
   to test site performace
 [usage]
   ./testSite.sh [time] [site]
+
+3. PHP/testMysql.php
+[description]
+  to test PHP and Mysql Server connection if it is OK
+[usage]
+  1. modify USERNAME and PASSWD
+  2. php testMysql.php
